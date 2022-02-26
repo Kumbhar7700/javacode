@@ -7,7 +7,8 @@ public class calc
         b=45;
         int c=a+b;
 
-        System.out.println("sum of the two number is:"+c)
+        System.out.println("sum of the two number is:"+c);
+        System.out.println("Hello world");
 
     }
 }
